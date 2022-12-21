@@ -65,6 +65,7 @@ body {
 .menu-icon {
 	display: none;
 	cursor: pointer;
+	user-select: none;
 }
 
 /* ---------------------------Sidebar------------------- ------*/
